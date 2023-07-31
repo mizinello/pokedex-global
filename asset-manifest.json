@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pokedex-global/static/css/main.5c1768b4.css",
+    "main.js": "/pokedex-global/static/js/main.061e9d4a.js",
+    "static/js/787.fdf3ac82.chunk.js": "/pokedex-global/static/js/787.fdf3ac82.chunk.js",
+    "static/media/logo.webp": "/pokedex-global/static/media/logo.55f6f179630e3fb0fd20.webp",
+    "static/media/3.svg": "/pokedex-global/static/media/3.c7addba3e69e8d2db12dbbc8dade0406.svg",
+    "static/media/dragon.svg": "/pokedex-global/static/media/dragon.454ced68d22d87165f74.svg",
+    "static/media/bug.svg": "/pokedex-global/static/media/bug.038d35f9a084e9407f12.svg",
+    "static/media/fire.svg": "/pokedex-global/static/media/fire.592a0558fe90465407ed.svg",
+    "static/media/psychic.svg": "/pokedex-global/static/media/psychic.371d3b82ec02e50e2aae.svg",
+    "static/media/fairy.svg": "/pokedex-global/static/media/fairy.c134042c1f4967eeb21e.svg",
+    "static/media/rock.svg": "/pokedex-global/static/media/rock.69578122aa49b6de0d01.svg",
+    "static/media/ice.svg": "/pokedex-global/static/media/ice.ca74435293dda64e3335.svg",
+    "static/media/ghost.svg": "/pokedex-global/static/media/ghost.c9c46d68e513506d57dd.svg",
+    "static/media/flying.svg": "/pokedex-global/static/media/flying.d0f17a75cbe6675bb1f6.svg",
+    "static/media/fighting.svg": "/pokedex-global/static/media/fighting.d4aec4f409304758111f.svg",
+    "static/media/poison.svg": "/pokedex-global/static/media/poison.8e088b3188c235e36cae.svg",
+    "static/media/steel.svg": "/pokedex-global/static/media/steel.a019622db4220bf78f84.svg",
+    "index.html": "/pokedex-global/index.html",
+    "static/media/ground.svg": "/pokedex-global/static/media/ground.7781dd03f949465d9830.svg",
+    "static/media/dark.svg": "/pokedex-global/static/media/dark.981ec23d06b8ece701d9.svg",
+    "static/media/water.svg": "/pokedex-global/static/media/water.a467530b2db14fc11104.svg",
+    "static/media/electric.svg": "/pokedex-global/static/media/electric.b88a78540d16069fb438.svg",
+    "static/media/grass.svg": "/pokedex-global/static/media/grass.e09623e3345d5bf5286f.svg",
+    "static/media/normal.svg": "/pokedex-global/static/media/normal.426ec2e8b289e2681732.svg",
+    "main.5c1768b4.css.map": "/pokedex-global/static/css/main.5c1768b4.css.map",
+    "main.061e9d4a.js.map": "/pokedex-global/static/js/main.061e9d4a.js.map",
+    "787.fdf3ac82.chunk.js.map": "/pokedex-global/static/js/787.fdf3ac82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1768b4.css",
+    "static/js/main.061e9d4a.js"
+  ]
+}
