@@ -1,0 +1,46 @@
+.stats {
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background: white;
+    height: 100%;
+    padding: 5% 10%;
+    border-radius: 45px 45px 0px 0px;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+  }
+  
+  .bar-status {
+    flex: 1;
+    height: 4px;
+    border-radius: 2px;
+  }
+  
+  .bar-status > span {
+    display: block;
+    height: inherit;
+  }
+  
+  .row > strong {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 22px;
+    color: rgb(23, 23, 27);
+    width: 150px;
+    text-align: center;
+  }
+  
+  .row > span {
+    font-size: 22px;
+    line-height: 25px;
+    color: rgb(116, 116, 118);
+    width: 100px;
+    text-align: center;
+  }

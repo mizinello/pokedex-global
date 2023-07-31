@@ -1,0 +1,51 @@
+.info-name {
+    font-size: 2rem;
+    line-height: 135%;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    display: block;
+  }
+  
+  .info-card {
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(203 198 246);
+    box-shadow: 0 5px 5px rgb(0 0 0 / 50%);
+    border-image: initial;
+    border-radius: 1.5rem;
+    position: relative;
+    animation: 0.8s ease 0s 1 normal none running isvQfc;
+  }
+  
+  .type {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.5rem;
+    flex-shrink: 0;
+    font-family: "Montserrat";
+    font-size: 1rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  .type:nth-child(n + 2) {
+    margin-left: 0.5rem;
+  }
+  .detail-footer{
+    display: flex;
+    justify-content: space-between;
+
+  }
+  
+  .view-more {
+    margin-bottom: 8px !important;
+  }

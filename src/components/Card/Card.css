@@ -1,0 +1,24 @@
+.card{
+  margin-left: 24.6rem;  
+}
+
+.card-image{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  
+  .card-name {
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 14pt;
+  }
+
+

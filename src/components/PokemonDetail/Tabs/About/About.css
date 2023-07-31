@@ -1,0 +1,63 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background: white;
+    height: 350px;
+    padding: 0px 40px;
+    border-radius: 45px 45px 0px 0px;
+  }
+  
+  .pokemon-data {
+    flex: 1 1 0%;
+    display: flex;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+  
+  div ul {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    list-style: none;
+  }
+  
+  div ul li {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  
+  div ul li strong {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 24px;
+    color: rgb(23, 23, 27);
+    width: 180px;
+  }
+  
+  div ul li span {
+    font-size: 24px;
+    line-height: 21px;
+    color: rgb(116, 116, 118);
+  }
+  
+  .flavor-text {
+    padding: 16px;
+    font-size: 24px;
+  }
+  
+  .about-group {
+    text-align: left;
+  }
+  
+  .about-group h3 {
+    font-size: 24px;
+  }

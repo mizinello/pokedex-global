@@ -1,0 +1,22 @@
+.filter-button {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.5rem;
+    flex-shrink: 0;
+    font-family: "Papyrus W01";
+    font-size: 1rem;
+    line-height: 150%;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #fff;
+  }
+  
+  .filter-button:hover {
+    cursor: pointer;
+  }
+  
+  .MuiMenu-list {
+    padding: 0 !important;
+  }
